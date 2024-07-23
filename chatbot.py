@@ -278,7 +278,7 @@ from PIL import Image
 st.title("Chatbot Leoni")
 
 # Logo (if available)
-logo_path = os.path.join(os.getcwd(), "/content/Leoni.svg.png")
+logo_path = os.path.join(os.getcwd(), "Leoni.svg.png")
 if os.path.exists(logo_path):
     st.image(logo_path, width=50)
 
