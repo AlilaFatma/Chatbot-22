@@ -34,7 +34,7 @@ def extract_text_from_images(pdf_path):
 
 
 
-pdf_path = '/content/AA3117 instruction de travail sertissage.pdf'
+pdf_path = 'AA3117 instruction de travail sertissage.pdf'
 extracted_text = extract_text_from_images(pdf_path)
 #print(extracted_text)
 
