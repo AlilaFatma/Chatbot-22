@@ -34,7 +34,7 @@ def extract_text_from_images(pdf_path):
 
 
 
-pdf_path = 'https://github.com/AlilaFatma/Chatbot/blob/5edfd42bfe11b26b853ea2fdfeb0c87d01132fe1/AA3117%20instruction%20de%20travail%20sertissage.pdf'
+pdf_path = 'AA3117 instruction de travail sertissage.pdf'
 extracted_text = extract_text_from_images(pdf_path)
 #print(extracted_text)
 
